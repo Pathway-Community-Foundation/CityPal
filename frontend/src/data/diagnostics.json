@@ -1,0 +1,27 @@
+[
+    {
+      "id": 103,
+      "location": "Intersection #103",
+      "risk": "High",
+      "crashCount": 6,
+      "lastCrash": "2025-04-20",
+      "factors": ["No crosswalk", "High speed", "Poor lighting"]
+    },
+    {
+      "id": 107,
+      "location": "Intersection #107",
+      "risk": "Critical",
+      "crashCount": 9,
+      "lastCrash": "2025-04-22",
+      "factors": ["Missing sidewalk", "4-lane road", "School zone nearby"]
+    },
+    {
+      "id": 112,
+      "location": "Intersection #112",
+      "risk": "Medium",
+      "crashCount": 3,
+      "lastCrash": "2025-04-15",
+      "factors": ["Unmarked pedestrian path", "Low visibility"]
+    }
+  ]
+  
